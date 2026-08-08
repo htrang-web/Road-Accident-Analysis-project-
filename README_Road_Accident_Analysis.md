@@ -281,7 +281,7 @@ Provides a high-level view of:
 - Accident severity
 - Overall accident trends
 
-![Dashboard 1 - Overview](images/dashboard-01.png)
+<img width="1252" height="699" alt="image" src="https://github.com/user-attachments/assets/063d9ebd-2f08-455a-9b35-5ced88565e3f" />
 
 ---
 
@@ -295,7 +295,7 @@ Analyzes accident patterns by:
 - Hour
 - Weekday vs Weekend
 
-![Dashboard 2 - Time Analysis](images/dashboard-02.png)
+<img width="1256" height="716" alt="image" src="https://github.com/user-attachments/assets/1a2a0751-700f-4743-8e73-75980fedae31" />
 
 ---
 
@@ -309,33 +309,23 @@ Examines accident patterns across:
 - Road types
 - Speed limits
 
-![Dashboard 3 - Weather & Road Conditions](images/dashboard-03.png)
+<img width="1253" height="702" alt="image" src="https://github.com/user-attachments/assets/db24991d-978f-461d-a46f-0bfdfa55c85b" />
 
 ---
 
-## Dashboard 4 — Vehicle Analysis
+## Dashboard 4 — Vehicle and Geographic Analysis
 
 Analyzes accident involvement by:
 
 - Vehicle type
 - Number of vehicles
 - Accident severity
-- Casualties
-
-![Dashboard 4 - Vehicle Analysis](images/dashboard-04.png)
-
----
-
-## Dashboard 5 — Geographic Analysis
-
-Examines accident distribution by:
-
 - Local authority
 - Police force
 - Urban / rural classification
 - Geographic location
 
-![Dashboard 5 - Geographic Analysis](images/dashboard-05.png)
+<img width="1256" height="714" alt="image" src="https://github.com/user-attachments/assets/8585b209-ae8c-4cb0-b7a6-eb9bd4954c8c" />
 
 ---
 
@@ -371,29 +361,6 @@ The analysis highlights several important patterns:
 - Insight generation
 - Data storytelling
 - Analytical reporting
-
----
-
-# 📁 Project Structure
-
-```text
-.
-├── README.md
-├── data/
-│   └── road_accident_data.csv
-├── images/
-│   ├── data-model.png
-│   ├── dashboard-01.png
-│   ├── dashboard-02.png
-│   ├── dashboard-03.png
-│   ├── dashboard-04.png
-│   └── dashboard-05.png
-└── Road_Accident_Analysis.pbix
-```
-
-> The raw dataset may be omitted from the repository if its
-> redistribution is restricted. In that case, provide the original
-> dataset source in the project documentation.
 
 ---
 
