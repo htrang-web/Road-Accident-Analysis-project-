@@ -132,7 +132,7 @@ calculations.
 
 ### Data Model
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4eee8eb5-d137-46f8-a23b-262c64f81939" />
+<img width="1001" height="678" alt="image" src="https://github.com/user-attachments/assets/476b28e8-6b23-4421-af46-f4c628a3d75c" />
 
 ---
 
