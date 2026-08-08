@@ -1,4 +1,4 @@
-# 🚗 UK Road Accident Analysis | Power BI
+# UK Road Accident Analysis | Power BI
 
 An interactive Power BI project analyzing UK road accident data from
 2021–2022 to identify patterns in accident frequency, severity, time,
@@ -132,7 +132,7 @@ calculations.
 
 ### Data Model
 
-![Data Model](images/data-model.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4eee8eb5-d137-46f8-a23b-262c64f81939" />
 
 ---
 
